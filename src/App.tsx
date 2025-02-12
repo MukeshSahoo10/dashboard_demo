@@ -14,7 +14,7 @@ import IncomeReports from "./components/IncomeReports";
 import MyTeam from "./components/MyTeam";
 import Withdrawals from "./components/Withdraw";
 import Support from "./components/Support";
-import SignIn from "./components/Signin";
+import SignIn from "./components/Login";
 import SignUp from "./components/SignUp";
 import Logout from "./components/Logout"; // No need to pass onLogout
 
